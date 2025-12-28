@@ -1,0 +1,6 @@
+python3 -m venv .venv
+source /Users/marshall/Natural-Bebe/.venv/bin/activate
+
+git add .
+git commit -m "chore: Save progress"
+git push
